@@ -1,0 +1,1 @@
+# scandi-training-app
